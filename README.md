@@ -5,7 +5,7 @@
 
 https://sds1-erick.netlify.app
 
-Big Game Survey est une application full stack web et mobile créée pendant la 1ère édition de la **Semaine DevSuperior** (#sds1), événement organisé par [DevSuperior](https://devsuperior.com "Le site de DevSuperior").
+Big Game Survey est une application full stack web et mobile créée pendant la 1ère édition de la **Semaine DevSuperior** (#sds1), événement organisé par [DevSuperior](https://devsuperior.com.br "Le site de DevSuperior").
 
 L'application consiste en une enquête sur les préférences de jeu, où les données sont collectées dans l'application mobile, et ensuite listées dans l'application web, qui comporte également un dashboard avec des graphiques basés sur ces données.
 
